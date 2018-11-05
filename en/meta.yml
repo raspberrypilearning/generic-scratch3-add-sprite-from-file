@@ -1,11 +1,9 @@
-title: generic-scratch3-add-sprite-from-file
+title: Uploading a sprite from a file
 hero_image: images/banner.png
-description: generic-scratch3-add-sprite-from-file description
-version: 4
+description: Uploading a sprite from a file in Scratch
+duration: 1
 listed: false
-copyedit: false
-last_tested: "2018-11-05"
+ingredient: true
+copyedit: true
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Uploading a sprite from a file
