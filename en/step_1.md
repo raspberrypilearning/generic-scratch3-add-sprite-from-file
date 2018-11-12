@@ -5,5 +5,3 @@
 - Choose a file and click on __Open__ when you are done.
 
 ![choose sprite windows](images/choose-sprite-annotated.png)
-
-![choose sprite macos](images/choose-sprite-macos-annotated.png)
