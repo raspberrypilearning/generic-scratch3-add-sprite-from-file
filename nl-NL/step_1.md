@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- Klik op **Upload sprite** in het sprite-menu om een bestandsbrowser te openen.
 
-![sprite from file](images/sprite-from-file.png)
+![sprite uit bestand](images/sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- Kies een bestand en klik op **Openen** als je klaar bent.
 
-![choose sprite windows](images/choose-sprite-annotated.png)
+![kies sprite-vensters](images/choose-sprite-annotated.png)
