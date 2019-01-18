@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- फाइल ब्राऊजर उघडण्यासाठी स्प्राईट मेनू मधून **Upload(अपलोड)** क्लिक करा.
 
 ![sprite from file](images/sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- फाइल निवडा आणि वर **Open(उघडा)** क्लिक करा.
 
 ![choose sprite windows](images/choose-sprite-annotated.png)
