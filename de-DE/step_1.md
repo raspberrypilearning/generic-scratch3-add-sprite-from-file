@@ -1,4 +1,4 @@
-- Im Objekte-Menü auf **Hochladen** klicken, um Datei auszuwählen.
+- Klicke im Figuren-Menü auf **Figur hochladen**, um einen Dateibrowser zu öffnen.
 
 ![Objekt aus einer Datei](images/sprite-from-file.png)
 
