@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- sprite මෙනුවේ **උත්පතනය(Upload)** ක්ලික් කර ගොනු බ්‍රව්සරය විවෘත කරගන්න.
 
-![sprite from file](images/sprite-from-file.png)
+![ගොනුවෙන් sprite](images / sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- ඔබට අවශ්‍ය ගොනුව තෝරා **විවෘත කරන්න(Open)** මත ක්ලික් කරන්න.
 
-![choose sprite windows](images/choose-sprite-annotated.png)
+![sprite කවුළු තෝරන්න](images / select-sprite-annotated.png)
