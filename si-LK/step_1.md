@@ -4,4 +4,4 @@
 
 - ඔබට අවශ්‍ය ගොනුව තෝරා **විවෘත කරන්න(Open)** මත ක්ලික් කරන්න.
 
-![sprite කවුළු තෝරන්න](images/select-sprite-annotated.png)
+![sprite කවුළු තෝරන්න](images/choose-sprite-annotated.png)
