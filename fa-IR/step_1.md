@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- روی **بارگذاری** از منوی شکلک کلیک کنید تا مرورگر انتخاب فایل باز شود.
 
-![sprite from file](images/sprite-from-file.png)
+![شلک از طریق فایل](images/sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- یک فایل را انتخاب کنید و وقتی که کارتان تمام شد روی **Open** کلیک کنید.
 
-![choose sprite windows](images/choose-sprite-annotated.png)
+![انتخاب پنجره شکلک](images/choose-sprite-annotated.png)
