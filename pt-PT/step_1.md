@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- Clica em **Carregar Actor** no menu Actor para abrir um explorador de ficheiros.
 
-![sprite from file](images/sprite-from-file.png)
+![actor a partir de um ficheiro](images/sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- Escolhe um ficheiro e clica em **Abrir** quando terminares.
 
-![choose sprite windows](images/choose-sprite-annotated.png)
+![escolhe janelas de actores](images/choose-sprite-annotated.png)
