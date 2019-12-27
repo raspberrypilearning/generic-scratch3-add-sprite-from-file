@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- Klikk **Last opp** fra figur-menyen for å åpne en filleser.
 
-![sprite from file](images/sprite-from-file.png)
+![figur fra fil](images/sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- Velg en fil og klikk på **Åpne** når du er ferdig.
 
-![choose sprite windows](images/choose-sprite-annotated.png)
+![velg fil-vinduer](images/choose-sprite-annotated.png)
