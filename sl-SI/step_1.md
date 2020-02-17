@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- Klikni **Naloži** iz menija figure, da odpreš datotečni brskalnik.
 
-![sprite from file](images/sprite-from-file.png)
+![figura iz datoteke](images/sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- Izberi datoteko in klikni **Odpri**.
 
-![choose sprite windows](images/choose-sprite-annotated.png)
+![izberi okno s figuro](images/choose-sprite-annotated.png)
