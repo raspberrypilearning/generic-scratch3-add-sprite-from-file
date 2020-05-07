@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- Выбери **Загрузить спрайт** в меню спрайтов, чтобы открыть браузер файлов.
 
-![sprite from file](images/sprite-from-file.png)
+![спрайт из файла](images/sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- Выбери файл и нажми **Открыть**.
 
-![choose sprite windows](images/choose-sprite-annotated.png)
+![окна выбора спрайта](images/choose-sprite-annotated.png)
