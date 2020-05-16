@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- Κάντε κλικ στο κουμπί **Μεταφόρτωση** από το μενού Sprite για να ανοίξετε ένα πρόγραμμα περιήγησης αρχείων.
 
-![sprite from file](images/sprite-from-file.png)
+![sprite από το αρχείο](images/sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- Επιλέξτε ένα αρχείο και κάντε κλικ στο **Άνοιγμα** όταν τελειώσετε.
 
-![choose sprite windows](images/choose-sprite-annotated.png)
+![επιλέξτε παράθυρα sprite](images/choose-sprite-annotated.png)
