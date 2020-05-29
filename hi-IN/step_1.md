@@ -1,4 +1,4 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- कोई फ़ाइल ब्राउज़र खोलने के लिए स्प्राइट मेनू से **Upload** (अपलोड करें) पर क्लिक करें।
 
 ![फ़ाइल से sprite](images/sprite-from-file.png)
 
