@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- Haz click en **Subir un objeto** desde el menú del sprite para abrir el explorador de archivos.
 
-![sprite from file](images/sprite-from-file.png)
+![objeto sprite desde archivo](images/sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- Selecciona un archivo y haz click en **Abrir** cuando estés listo.
 
-![choose sprite windows](images/choose-sprite-annotated.png)
+![elegir ventanas de objetos](images/choose-sprite-annotated.png)
