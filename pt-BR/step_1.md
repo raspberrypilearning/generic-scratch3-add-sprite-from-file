@@ -1,4 +1,4 @@
-- Clique em **Upload** no menu do sprite para abrir um navegador de arquivos.
+- Clique em **Enviar Ator** no menu do sprite para abrir um navegador de arquivos.
 
 ![sprite do arquivo](images/sprite-from-file.png)
 
