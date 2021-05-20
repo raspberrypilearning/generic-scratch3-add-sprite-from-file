@@ -1,7 +1,7 @@
-- Click **Upload** from the sprite menu to open up a file browser.
+- Clique sur **Importer un sprite** dans le menu du sprite pour ouvrir l'explorateur de fichier.
 
-![sprite from file](images/sprite-from-file.png)
+![sprite à partir d'un fichier](images/sprite-from-file.png)
 
-- Choose a file and click on **Open** when you are done.
+- Choisis un fichier et clique sur **Ouvrir** lorsque tu as terminé.
 
-![choose sprite windows](images/choose-sprite-annotated.png)
+![choisir des fenêtres de sprite](images/choose-sprite-annotated.png)
